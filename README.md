@@ -4,7 +4,7 @@
 - **Név:** Nagy-Eperjesi Richárd János
 - **Neptun kód:** X8XG5B
 - **Szak / Képzés:** Programtervező informatikus BSc (ELTE IK)
-- **Bemutató videó linkje (OneDrive):** [Videó megtekintése](https://onedrive.live.com/...)
+- **Bemutató videó linkje (OneDrive):** [Videó megtekintése]([https://onedrive.live.com/...](https://ikelte-my.sharepoint.com/:v:/g/personal/x8xg5b_inf_elte_hu/IQCiXf8Tc-t3QafaG_lahNGWASwcBD-L-vB2bvH-2YHOQnY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=o43gtE))
 - **A futtatható program linkje (GitHub Pages):** [https://rixxxhun.github.io/vasuti-szimulator/](https://rixxxhun.github.io/vasuti-szimulator/)
 
 ---

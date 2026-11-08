@@ -4,7 +4,7 @@
 - **Név:** Nagy-Eperjesi Richárd János
 - **Neptun kód:** X8XG5B
 - **Szak / Képzés:** Programtervező informatikus BSc (ELTE IK)
-- **Bemutató videó linkje (OneDrive):** [Videó megtekintése]([https://onedrive.live.com/...](https://ikelte-my.sharepoint.com/:v:/g/personal/x8xg5b_inf_elte_hu/IQCiXf8Tc-t3QafaG_lahNGWASwcBD-L-vB2bvH-2YHOQnY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=o43gtE))
+- **Bemutató videó linkje (OneDrive):** https://ikelte-my.sharepoint.com/personal/x8xg5b_inf_elte_hu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fx8xg5b%5Finf%5Felte%5Fhu%2FDocuments%2FBeadando%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef99d9dab%2D41d2%2D4ded%2Da398%2Dcc9e9e4c0402
 - **A futtatható program linkje (GitHub Pages):** [https://rixxxhun.github.io/vasuti-szimulator/](https://rixxxhun.github.io/vasuti-szimulator/)
 
 ---
